@@ -4,7 +4,7 @@ fritz web dial is a simple php script, that allows you to initialize Fritz!Box p
 
 ## warning
 
-please note, fritz web dial is a really quick and much more dirty script until now. do *not* provide the script in the world wide web - there may be a lot of security reasons. if you wanna fix them, feel free to send me patches.
+please note, fritz web dial is a really quick and much more dirty script until now. do *not* provide the script in the world wide web - there may be a lot of security issues. if you wanna fix them, feel free to send me patches.
 
 ## license
 this will use a foreign, inofficial fritz!box-api from Gregor Nathanael Meyer, the code resides in the api directory and is licensed under the Creative Commons cc-by-sa: http://creativecommons.org/licenses/by-sa/3.0/de/ Creative Commons cc-by-sa.
